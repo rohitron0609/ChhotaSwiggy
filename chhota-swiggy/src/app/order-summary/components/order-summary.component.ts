@@ -32,7 +32,7 @@ export class OrderSummaryComponent {
       }, 0);
     }else {
       console.error('Order summary or food items list is not defined.');
-    }
+    } 
 
   }
 
